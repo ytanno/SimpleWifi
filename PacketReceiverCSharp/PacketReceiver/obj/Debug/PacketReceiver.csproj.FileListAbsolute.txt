@@ -1,0 +1,6 @@
+D:\VisualStudio\PacketReceiver\PacketReceiver\bin\Debug\PacketReceiver.exe.config
+D:\VisualStudio\PacketReceiver\PacketReceiver\bin\Debug\PacketReceiver.exe
+D:\VisualStudio\PacketReceiver\PacketReceiver\bin\Debug\PacketReceiver.pdb
+D:\VisualStudio\PacketReceiver\PacketReceiver\obj\Debug\PacketReceiver.csprojResolveAssemblyReference.cache
+D:\VisualStudio\PacketReceiver\PacketReceiver\obj\Debug\PacketReceiver.exe
+D:\VisualStudio\PacketReceiver\PacketReceiver\obj\Debug\PacketReceiver.pdb
